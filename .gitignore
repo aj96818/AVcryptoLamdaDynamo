@@ -7,4 +7,4 @@
 !python/lambda_function.py
 !README.md
 !requirements.txt
-!/Users/alanjackson/Environments/projects-terraform/AVcryptoLamdaDynamo/python/lambda_function.py
+!myLambdaEnv/lib/python3.11/site-packages/cryptoLamda.py
