@@ -1,0 +1,8 @@
+# Ignore all files
+*
+
+# But do not ignore these files
+!.gitignore
+!main.tf
+!python/lambda_function.py
+!README.md
