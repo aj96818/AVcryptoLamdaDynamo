@@ -6,3 +6,4 @@
 !main.tf
 !python/lambda_function.py
 !README.md
+!requirements.txt
