@@ -13,6 +13,7 @@ Logging into AWS from Terminal:
 1. In Terminal run: aws sso login
 2. Username: 
 3. Pw:
+   
 Start URL: https://d-9067e02247.awsapps.com/start
 
 
